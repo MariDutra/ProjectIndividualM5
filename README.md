@@ -17,6 +17,11 @@
  ```
  
  ### Utilize os códigos abaixo em seu terminal para verificar o funcionamento do projeto 
+ <p>NPM I</p>
+ <p>NPM INIT</p>
+ <p>NPM I -G CHALK</p>
+ <p>NPM I READLINE-SYNC</p>
+ <p>NODE APP.JS</p>
  
  
  
